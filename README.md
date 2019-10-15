@@ -1,5 +1,7 @@
-_sf_
+Software Foundations
 ====
+
+Fork from [Miëtek Bak‏](https://github.com/mietek/sf) , and upload a Tex version.
 
 Mirror of the [Software Foundations](http://softwarefoundations.cis.upenn.edu/) series of books.  Includes generated PDFs.
 
